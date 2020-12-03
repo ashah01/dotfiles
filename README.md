@@ -8,4 +8,5 @@
 ### Basic installation
 
 1. `git clone https://github.com/ashah01/dotfiles.git`
-2. `./install.sh`
+2. `cd dotfiles`
+3. `./install.sh`
