@@ -1,7 +1,4 @@
 tap "beeftornado/rmtree"
-tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
 brew "gh"
 brew "git"
 brew "git-extras"

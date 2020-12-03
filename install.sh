@@ -21,7 +21,9 @@ mv .zshrc ~
 source ~/.zshrc
 
 # Install tools + apps
+brew cask
 brew bundle
 
 # Node
+source ~/.zshrc
 nvm install --lts
