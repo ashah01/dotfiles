@@ -1,6 +1,7 @@
 # Set Gruvbox dark profile to default
-cp Gruvbox-dark.txt Gruvbox-dark.terminal
+sudo spctl --master-disable
 open Gruvbox-dark.terminal
+sudo spctl --master-enable
 defaults write com.apple.Terminal "Default Window Settings" -string "Gruvbox-dark"
 defaults write com.apple.Terminal "Startup Window Settings" -string "Gruvbox-dark"
 
