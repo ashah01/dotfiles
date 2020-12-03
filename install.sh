@@ -12,11 +12,10 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 vim +PlugInstall +qall
 
 # ZSH configuration
-mv .zshrc ~
-
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+mv .zshrc ~
 
 exec -l $SHELL
 
