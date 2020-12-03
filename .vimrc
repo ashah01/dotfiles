@@ -28,8 +28,8 @@ Plug 'sheerun/vim-polyglot'
 
 call plug#end()
 
-let g:gruvbox_contrast_dark = 'hard'
-let g:gruvbox_invert_selection = '0'
-colorscheme gruvbox
-set background=dark
+silent! let g:gruvbox_contrast_dark = 'hard'
+silent! let g:gruvbox_invert_selection = '0'
+silent! colorscheme gruvbox
+silent! set background=dark
 
