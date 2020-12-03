@@ -1,0 +1,15 @@
+tap "beeftornado/rmtree"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "gh"
+brew "git"
+brew "git-extras"
+brew "git-flow"
+brew "mas"
+brew "nvm"
+cask "daisydisk"
+cask "notion"
+cask "numi"
+mas "Canary Mail", id: 1236045954
+mas "Magnet", id: 441258766
