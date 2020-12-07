@@ -1,4 +1,4 @@
-# Load colour scheme
+# Load colour palette
 source /Users/arnavshah/.vim/plugged/gruvbox/gruvbox_256palette.sh
 
 # Load Oh My Zsh
