@@ -18,33 +18,30 @@
 * [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
 ### Shell
-* [Gruvbox terminal profile](https://github.com/morhetz/gruvbox-contrib/blob/master/osx-terminal/Gruvbox-dark.terminal)
 * My minimal, clean .zshrc
   * [Gruvbox palette script](https://github.com/gruvbox-community/gruvbox/blob/master/gruvbox_256palette.sh)
   * [Oh My Zsh](https://ohmyz.sh)
     * [Spaceship prompt](https://github.com/denysdovhan/spaceship-prompt)
     * [Zsh-Syntax-Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
     * [Zsh-Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+* [Gruvbox terminal profile](https://github.com/morhetz/gruvbox-contrib/blob/master/osx-terminal/Gruvbox-dark.terminal)
+
+### Git
+* [Git](https://git-scm.com)
+* [Github CLI](https://cli.github.com)
+* [Git-Extras](https://github.com/tj/git-extras)
+* [Git-Flow](https://github.com/nvie/gitflow)
+
 
 ### TypeScript
 * [Deno](https://deno.land)
 
-### Brew Formulae
-* gh
-* git
-* git-extras
-* git-flow
-* mas
-* deno
+### Taps
+* [beeftornado/rmtree](https://github.com/beeftornado/homebrew-rmtree)
 
-### Brew taps
-* beeftornado/rmtree
-
-### Brew Casks
-* daisydisk
-* notion
-* numi
-
-### Brew Bundle
-* Canary Mail
-* Magnet
+### Apps
+* [Daisy Disk](https://daisydiskapp.com)
+* [Notion](https://www.notion.so/desktop)
+* [Numi](https://numi.app)
+* [Canary Mail](https://apps.apple.com/us/app/canary-mail/id1236045954?mt=12)
+* [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
