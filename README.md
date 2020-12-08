@@ -11,6 +11,10 @@
 2. `cd dotfiles`
 3. `./install.sh`
 
+## Uninstallation
+1. `./uninstall.sh
+2. `cd ..`
+
 ## What's included?
 ### Vim
 * My minimal, blazing-fast .vimrc
