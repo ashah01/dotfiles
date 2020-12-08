@@ -7,4 +7,4 @@ rm -rf $HOME/.zshrc
 rm -rf ./Brewfile
 touch Brewfile
 brew bundle --force cleanup
-rm -rf .
+rm -rf ../dotfiles
