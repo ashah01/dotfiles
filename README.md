@@ -12,7 +12,7 @@
 3. `./install.sh`
 
 ## Uninstallation
-1. `./uninstall.sh
+1. `./uninstall.sh`
 2. `cd ..`
 
 ## What's included?
