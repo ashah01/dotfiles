@@ -25,6 +25,7 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'gruvbox-community/gruvbox'
 Plug 'sheerun/vim-polyglot'
+Plug 'tpope/vim-fugitive'
 
 call plug#end()
 
