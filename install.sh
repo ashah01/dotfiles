@@ -21,5 +21,4 @@ mv .zshrc ~
 source ~/.zshrc
 
 # Install tools + apps
-brew cask
 brew bundle
