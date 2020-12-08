@@ -12,8 +12,10 @@
 3. `./install.sh`
 
 ## Uninstallation
-1. `./uninstall.sh`
-2. `cd ..`
+1. `git clone https://github.com/ashah01/dotfiles.git`
+2. `cd dotfiles`
+3. `./uninstall.sh`
+4. `cd ..`
 
 ## What's included?
 ### Vim
