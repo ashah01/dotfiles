@@ -24,7 +24,8 @@ set laststatus=0
 call plug#begin('~/.vim/plugged')
 
 Plug 'gruvbox-community/gruvbox'
-Plug 'sheerun/vim-polyglot'
+Plug 'jiangmiao/auto-pairs'
+Plug 'preservim/nerdtree'
 Plug 'tpope/vim-fugitive'
 
 call plug#end()
@@ -33,4 +34,5 @@ silent! let g:gruvbox_contrast_dark = 'hard'
 silent! let g:gruvbox_invert_selection = '0'
 silent! colorscheme gruvbox
 silent! set background=dark
-
+let NERDTreeShowHidden=1
+autocmd VimEnter * NERDTree | wincmd p
