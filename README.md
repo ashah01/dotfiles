@@ -32,12 +32,8 @@
     * [Zsh-Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [Gruvbox terminal profile](https://github.com/morhetz/gruvbox-contrib/blob/master/osx-terminal/Gruvbox-dark.terminal)
 
-### Git
+### Version Control
 * [Git](https://git-scm.com)
-* [Github CLI](https://cli.github.com)
-* [Git-Extras](https://github.com/tj/git-extras)
-* [Git-Flow](https://github.com/nvie/gitflow)
-
 
 ### TypeScript
 * [Deno](https://deno.land)
