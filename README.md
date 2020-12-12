@@ -40,6 +40,10 @@
 
 ### Taps
 * [beeftornado/rmtree](https://github.com/beeftornado/homebrew-rmtree)
+* [homebrew/bundle](https://github.com/homebrew/bundle)
+* [homebrew/cask](https://github.com/homebrew/cask)
+* [homebrew/cask-fonts](https://github.com/homebrew/cask-fonts)
+* [homebrew/core](https://github.com/homebrew/core)
 
 ### Apps
 * [Daisy Disk](https://daisydiskapp.com)
