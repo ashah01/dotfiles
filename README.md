@@ -45,3 +45,6 @@
 * [Daisy Disk](https://daisydiskapp.com)
 * [Notion](https://www.notion.so/desktop)
 * [Numi](https://numi.app)
+
+### Fonts
+* [Fira Code Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
