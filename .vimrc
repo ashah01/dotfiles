@@ -25,7 +25,6 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'gruvbox-community/gruvbox'
 Plug 'jiangmiao/auto-pairs'
-Plug 'sheerun/vim-polyglot'
 
 call plug#end()
 
