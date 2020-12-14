@@ -24,7 +24,6 @@ set laststatus=0
 call plug#begin('~/.vim/plugged')
 
 Plug 'gruvbox-community/gruvbox'
-Plug 'jiangmiao/auto-pairs'
 
 call plug#end()
 
