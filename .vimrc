@@ -24,6 +24,7 @@ set laststatus=0
 call plug#begin('~/.vim/plugged')
 
 Plug 'gruvbox-community/gruvbox'
+Plug 'sheerun/vim-polyglot'
 
 call plug#end()
 
