@@ -21,7 +21,6 @@
 * My minimal, blazing-fast .vimrc
 * [Gruvbox](https://github.com/gruvbox-community/gruvbox)
 * [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
-* [Auto-Pairs](https://github.com/jiangmiao/auto-pairs)
 
 ### Shell
 * My minimal, clean .zshrc
