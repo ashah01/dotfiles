@@ -17,11 +17,6 @@
 4. `cd ..`
 
 ## What's included?
-### Vim
-* My minimal, blazing-fast .vimrc
-* [Gruvbox](https://github.com/gruvbox-community/gruvbox)
-* [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
-
 ### Shell
 * My minimal, clean .zshrc
   * [Gruvbox palette script](https://github.com/gruvbox-community/gruvbox/blob/master/gruvbox_256palette.sh)
