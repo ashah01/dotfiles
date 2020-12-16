@@ -19,12 +19,10 @@
 ## What's included?
 ### Shell
 * My minimal, clean .zshrc
-  * [Gruvbox palette script](https://github.com/gruvbox-community/gruvbox/blob/master/gruvbox_256palette.sh)
   * [Oh My Zsh](https://ohmyz.sh)
     * [Spaceship prompt](https://github.com/denysdovhan/spaceship-prompt)
     * [Zsh-Syntax-Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
     * [Zsh-Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-* [Gruvbox terminal profile](https://github.com/morhetz/gruvbox-contrib/blob/master/osx-terminal/Gruvbox-dark.terminal)
 
 ### Version Control
 * [Git](https://git-scm.com)
