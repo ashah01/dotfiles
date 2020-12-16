@@ -1,10 +1,3 @@
-# Set Gruvbox dark profile to default
-sudo spctl --master-disable
-open Gruvbox-dark.terminal
-sudo spctl --master-enable
-defaults write com.apple.Terminal "Default Window Settings" -string "Gruvbox-dark"
-defaults write com.apple.Terminal "Startup Window Settings" -string "Gruvbox-dark"
-
 # ZSH configuration
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 git clone https://github.com/denysdovhan/spaceship-prompt.git "$HOME/.oh-my-zsh/custom/themes/spaceship-prompt" --depth=1
