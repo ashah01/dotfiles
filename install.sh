@@ -5,14 +5,6 @@ sudo spctl --master-enable
 defaults write com.apple.Terminal "Default Window Settings" -string "Gruvbox-dark"
 defaults write com.apple.Terminal "Startup Window Settings" -string "Gruvbox-dark"
 
-# Vim Configuration
-mv .vimrc ~
-
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-
-vim -E -s -u ~/.vimrc +PlugInstall +qall
-
 # ZSH configuration
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 git clone https://github.com/denysdovhan/spaceship-prompt.git "$HOME/.oh-my-zsh/custom/themes/spaceship-prompt" --depth=1
