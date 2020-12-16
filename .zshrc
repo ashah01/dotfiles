@@ -1,6 +1,3 @@
-# Load colour palette
-source /Users/arnavshah/.vim/plugged/gruvbox/gruvbox_256palette.sh
-
 # Load Oh My Zsh
 export ZSH="/Users/arnavshah/.oh-my-zsh" 
 ZSH_THEME="spaceship-prompt/spaceship"
