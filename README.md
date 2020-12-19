@@ -14,13 +14,8 @@
 1. `git clone https://github.com/ashah01/dotfiles.git`
 2. `cd dotfiles`
 3. `./uninstall.sh`
-4. `cd ..`
 
 ## What's included?
-### Shell
-* My minimal, clean .zshrc
-
-
 ### TypeScript
 * [Deno](https://deno.land)
 
