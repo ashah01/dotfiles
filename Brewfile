@@ -5,7 +5,7 @@ brew "mas"
 cask "daisydisk"
 cask "notion"
 cask "numi"
-cask "sublime-text"
+cask "visual-studio-code"
 cask "github"
 cask "anaconda"
 mas "Canary", id: 1236045954
