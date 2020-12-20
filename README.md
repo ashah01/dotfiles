@@ -19,11 +19,8 @@
 ### App Store Management
 * [Mas](https://github.com/mas-cli/mas)
 
-### Python
-* [Anaconda](https://www.anaconda.com)
-
 ### TypeScript
-* [Nvm](https://github.com/nvm-sh/nvm)
+* [Deno](https://deno.land)
 
 ### Taps
 * [homebrew/bundle](https://github.com/homebrew/bundle)
