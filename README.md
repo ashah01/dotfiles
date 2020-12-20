@@ -22,6 +22,8 @@
 ### Python
 * [Anaconda](https://www.anaconda.com)
 
+### TypeScript
+* [Deno](https://deno.land)
 ### Taps
 * [homebrew/bundle](https://github.com/homebrew/bundle)
 * [homebrew/cask](https://github.com/homebrew/cask)
