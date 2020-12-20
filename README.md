@@ -23,7 +23,7 @@
 * [Anaconda](https://www.anaconda.com)
 
 ### TypeScript
-* [Deno](https://deno.land)
+* [Nvm](https://github.com/nvm-sh/nvm)
 
 ### Taps
 * [homebrew/bundle](https://github.com/homebrew/bundle)
