@@ -16,6 +16,9 @@
 3. `./uninstall.sh`
 
 ## What's included?
+### App Store Management
+* [Mas](https://github.com/mas-cli/mas)
+
 ### TypeScript
 * [Deno](https://deno.land)
 
@@ -30,3 +33,5 @@
 * [Numi](https://numi.app)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [GitHub Desktop](https://desktop.github.com)
+* [Canary](https://apps.apple.com/ca/app/canary-mail-app/id1236045954?mt=12)
+* [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
