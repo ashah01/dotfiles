@@ -8,5 +8,5 @@ cask "notion"
 cask "numi"
 cask "visual-studio-code"
 cask "github"
-mas "1236045954"
-mas "441258766"
+mas "Canary", id: 1236045954
+mas "Magnet", id: 441258766
