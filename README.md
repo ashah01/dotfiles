@@ -31,7 +31,7 @@
 * [Daisy Disk](https://daisydiskapp.com)
 * [Notion](https://www.notion.so/desktop)
 * [Numi](https://numi.app)
-* [Sublime Text](https://www.sublimetext.com)
+* [Visual Studio Code](https://code.visualstudio.com)
 * [GitHub Desktop](https://desktop.github.com)
 * [Canary](https://apps.apple.com/ca/app/canary-mail-app/id1236045954?mt=12)
 * [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
