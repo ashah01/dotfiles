@@ -1,7 +1,9 @@
 # Install tools + apps
 brew bundle
 
-sudo mv ./paths /etc/paths
+conda init "$(basename "${SHELL}")"
 
 cd ..
 rm -rf dotfiles/
+
+exec -l $SHELL
