@@ -19,8 +19,8 @@
 ### App Store Management
 * [Mas](https://github.com/mas-cli/mas)
 
-### TypeScript
-* [Deno](https://deno.land)
+### Python
+* [Anaconda](https://anaconda.com)
 
 ### Taps
 * [homebrew/bundle](https://github.com/homebrew/bundle)
@@ -31,7 +31,5 @@
 * [Daisy Disk](https://daisydiskapp.com)
 * [Notion](https://www.notion.so/desktop)
 * [Numi](https://numi.app)
-* [Visual Studio Code](https://code.visualstudio.com)
-* [GitHub Desktop](https://desktop.github.com)
 * [Canary](https://apps.apple.com/ca/app/canary-mail-app/id1236045954?mt=12)
 * [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
