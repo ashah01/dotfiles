@@ -5,6 +5,6 @@ brew "mas"
 cask "daisydisk"
 cask "notion"
 cask "numi"
-cask "anaconda"
+cask "miniconda"
 mas "Canary", id: 1236045954
 mas "Magnet", id: 441258766
