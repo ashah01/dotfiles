@@ -20,7 +20,7 @@
 * [Mas](https://github.com/mas-cli/mas)
 
 ### Python
-* [Anaconda](https://anaconda.com)
+* [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 ### Taps
 * [homebrew/bundle](https://github.com/homebrew/bundle)
