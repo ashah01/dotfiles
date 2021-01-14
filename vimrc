@@ -16,6 +16,8 @@ set noshowmode
 
 call plug#begin('/Users/arnavshah/.vim/plugged')
 Plug 'gruvbox-community/gruvbox'
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+Plug 'tpope/vim-fugitive'
 call plug#end()
 
 let g:gruvbox_contrast_dark = 'hard'
