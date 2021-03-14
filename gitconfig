@@ -1,0 +1,7 @@
+[user]
+	name = Arnav Shah
+	email = shaharnav03@gmail.com
+[credential]
+	helper = osxkeychain
+[core]
+	excludesfile = /Users/arnavshah/.gitignore
