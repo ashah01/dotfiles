@@ -3,6 +3,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 brew "git"
+brew "mas"
 brew "nvm"
 brew "openssl@1.1"
 brew "readline"
@@ -21,3 +22,5 @@ cask "krisp"
 cask "onyx"
 cask "visual-studio-code"
 cask "zoom"
+mas "Magnet", id: 441258766
+mas "Things", id: 904280696
