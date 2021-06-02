@@ -18,6 +18,7 @@ cask "grammarly"
 cask "kite"
 cask "krisp"
 cask "onyx"
+cask "send-to-kindle"
 cask "visual-studio-code"
 cask "zoom"
 mas "Magnet", id: 441258766
