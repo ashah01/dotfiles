@@ -18,7 +18,6 @@ cask "font-fira-code-nerd-font"
 cask "kite"
 cask "krisp"
 cask "onyx"
-cask "send-to-kindle"
 cask "zoom"
 mas "Magnet", id: 441258766
 mas "Things", id: 904280696
