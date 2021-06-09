@@ -16,7 +16,6 @@ brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 cask "font-fira-code-nerd-font"
 cask "kite"
-cask "krisp"
 cask "onyx"
 cask "zoom"
 mas "Magnet", id: 441258766
