@@ -19,3 +19,4 @@ vim.opt.incsearch = true -- incremental search
 
 vim.opt.termguicolors = true
 vim.opt.showmode = false
+vim.opt.textwidth = 80
