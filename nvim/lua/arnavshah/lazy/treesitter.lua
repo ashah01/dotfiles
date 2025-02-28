@@ -6,7 +6,7 @@ return {
 
     configs.setup({
       ensure_installed = {
-        "c", "lua", "vim", "vimdoc", "python", "typescript"
+          "c", "lua", "vim", "vimdoc", "python", "typescript", "markdown", "markdown_inline"
       },
       sync_install = false,
       highlight = { enable = true },
